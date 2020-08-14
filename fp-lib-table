@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name keebs)(type KiCad)(uri "C:/Users/Jay Jay/Documents/Custom Keyboard/KiCad Libraries/keebs.pretty")(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri "C:/Users/Jay Jay/Documents/Custom Keyboard/KiCad Libraries/keyboard_parts.pretty")(options "")(descr ""))
+)
